@@ -1,0 +1,6 @@
+{
+  "name": "subxero",
+  "description": "Comprehensive binary analysis, decompilation, and reverse engineering studio featuring multi-architecture disassembly, interactive control flow graphs, pseudocode generation, real-time CPU debugging console, hex patching, and cross-platform recompilation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
